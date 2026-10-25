@@ -14,3 +14,17 @@ Public repository for JavaScript source code and midterm lesson examples.
 - `CONTRIBUTING.md` — guidance for adding more source files
 
 The Lesson 5 sample names use generic labels. Each program is kept in its own file under the lesson where it was developed.
+
+## Running the examples
+
+With Node.js installed, run a program from the repository root using `node <file-path>`. For example:
+
+```sh
+node Lesson1/lesson-1-codes.js
+node Lesson3/lesson3_demoscript_arrays.js
+node Lesson4/lesson4_demoscript_linkedlist.js
+node Lesson5/W5_ArrayExercise.js
+node Lesson5/studentAnalyzer.js
+node Lesson5/Student_Grade_Analyzer.js
+node Lesson6/CC104_W6_Exercise.js
+```
